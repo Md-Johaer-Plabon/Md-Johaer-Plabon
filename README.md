@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Md-Johaer-Plabon
+- 👋 Hi, I’m Md-Johaer-Plabon
 - 👀 I’m interested in ... Solving Problem and learning something new in programming.
 - 🤠 I’m currently learning ... Algorithhms,Data-structures.
 - 💪 I’m looking to collaborate on ... Anyone who wants to do programming & Software company where need a programmer. 
