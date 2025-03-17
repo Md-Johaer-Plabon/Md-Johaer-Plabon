@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Johaer Anjum Plabon
-- 💼 Software Engineer @ Samsung R&D Bangladesh (SRBD).
 - ✉️ mdjohaerplabon@gmail.com
 - 📞 +8801870438415
 
